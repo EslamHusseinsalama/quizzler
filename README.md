@@ -1,16 +1,7 @@
 # quizzler
 
-A new Flutter project.
+Welcome to the Quizzer Flutter project! This project is designed to help you create a simple quiz app using the Flutter framework..
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In this project, you will be asked to create a mobile app that allows the user to take a quiz. The quiz will have multiple-choice questions, and the user's score will be displayed at the end of the quiz.
